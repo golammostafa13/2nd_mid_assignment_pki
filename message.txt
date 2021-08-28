@@ -1,0 +1,1 @@
+The user public key = "10201", the user is vaccinated
